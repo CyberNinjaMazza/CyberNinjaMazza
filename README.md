@@ -1,6 +1,6 @@
-##  👋 Hi I'm Joe
+##  Hi 😎 I'm Joe
 
-<h2>Certifications:</h2></br>
+<h3>Certifications:</h3></br>
     Microsoft SC-900</br>
     ISC2 CC Certified in Cyber Security</br>
     CompTIA Security+</br>
