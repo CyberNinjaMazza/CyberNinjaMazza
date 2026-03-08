@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Joe
+##  👋 Hi I'm Joe
 
 <!--
 **CyberNinjaMazza/CyberNinjaMazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
