@@ -2,7 +2,9 @@
 
 Certifications:
     Microsoft SC-900</br>
-    -ISC2 CC Certified in Cyber Security
+    ISC2 CC Certified in Cyber Security</br>
+    CompTIA Security+</br>
+    Microsoft SC200 Security Operations Analyst
 
 <!--
 **CyberNinjaMazza/CyberNinjaMazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
