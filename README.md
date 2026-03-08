@@ -1,6 +1,6 @@
 ##  👋 Hi I'm Joe
 
-Certifications:
+<h2>Certifications:</h2></br>
     Microsoft SC-900</br>
     ISC2 CC Certified in Cyber Security</br>
     CompTIA Security+</br>
